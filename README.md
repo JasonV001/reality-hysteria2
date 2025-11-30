@@ -58,7 +58,7 @@ bash <(curl -sSL https://raw.githubusercontent.com/JasonV001/reality-hysteria2/m
 ### 2. 再次运行脚本
 
 ```bash
-sudo bash lvhy.sh
+sudo bash rl-hy2.sh
 ```
 
 脚本将以 root 权限运行，并显示主菜单。
@@ -71,10 +71,10 @@ sudo bash lvhy.sh
 ================================================
  Sing-Box Hysteria2 & Reality 管理脚本 
 ================================================
- 作者:      jcnf-那坨
- 网站:      https://ybfl.net
- TG 频道:   https://t.me/mffjc
- TG 交流群: https://t.me/+TDz0jE2WcAvfgmLi
+ 作者:      
+ 网站:      
+ TG 频道:   
+ TG 交流群: 
 ================================================
 安装选项:
   1. 安装 Hysteria2 + Reality (共存)
